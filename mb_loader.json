@@ -1,5 +1,9 @@
 [
   {
+    "date": "2025-10-23",
+    "text": "MB Loader v2.2 is available now. This version added some behavior changes and option to change game data location. As mentioned before, the app has some issues and won't let Minecraft change data location to External, causing it to fallback to Application. The newly added option lets you change data location outside of Minecraft. You can set it to External to access data there. Note that the game will still show that Application is selected but it will save data in External. The option can be found in the Settings tab of MB Loader app. For any questions, please join our Discord server from About tab."
+  },
+  {
     "date": "2025-10-19",
     "text": "We just noticed that switching 'External' data location doesn't work. This may cause the game to fallback to 'Application'. So, if you had data in External. Those may not appear. In that case you can use the 'Backup Minecraft data' option in app settings. Then restore the backup to 'Application'. For any questions, please join our Discord server from About tab."
   },
