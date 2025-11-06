@@ -1,5 +1,10 @@
 [
   {
+    "date": "Nov 06, 2025",
+    "text": "New MB Loader is coming soon.\nUnfortunately, we will have to drop support for 32 bit (armeabi-v7a) and Chromebook devices (x86_64, x86).\nYou can check what you have from Settings -> Check preferred ABI",
+    "isCritical": true
+  },
+  {
     "date": "Oct 28, 2025",
     "text": "Minecraft v1.21.120 is released and once again it broke compatibility with MB Loader. It will take some time get things working again. So, please be patient for new MB Loader update and avoid updating to v1.21.120 for the time being."
   },
