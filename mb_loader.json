@@ -1,5 +1,10 @@
 [
   {
+    "date": "Nov 22, 2025",
+    "text": "Minecraft v1.21.124 broke compatibility again. Please don't update the game for now.",
+    "isCritical": true
+  },
+  {
     "date": "Nov 12, 2025",
     "text": "v2.3 is released. In this version, we have fixed the in-game data location switching issue and added v1.21.120+ compatibility.\r\n\r\nNotes:\r\n\u2022 32 bit (armeabi-v7a) and Chromebooks (x86_64, x86) are not supported. You can check what you have from Settings tab -> Check preferred ABI.\r\n\u2022 On low end device, the game may freeze which can lead to app keep saying \"app not responding\" even if the game runs smoothly.\r\n\u2022 Minecraft version 1.21.101 or lower may not work as expected.\r\n\u2022 Game data location (app) and autofix related settings won't work for now.",
     "isCritical": true
