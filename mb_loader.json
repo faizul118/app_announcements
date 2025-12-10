@@ -1,5 +1,11 @@
 [
   {
+    "date": "Dec 10, 2025",
+    "text": "Minecraft v1.21.130 is not supported. Do not update the game.\nCompatibility update (v2.5) will be available within 1-3 days.",
+    "text_es": "Minecraft v1.21.130 no es compatible. No actualices el juego.\nLa actualización de compatibilidad (v2.5) estará disponible en 1-3 días.",
+    "isCritical": true
+  },
+  {
     "date": "Nov 26, 2025",
     "text": "MB Loader v2.4 is out! This update features following the following:\r\n\r\n- Minecraft v1.21.124+ compatibility (older versions may no longer work)\r\n- Fixed file import issue (thanks to github.com\/RadiantByte)\r\n- Fixed app not responding issue\r\n- Game now shows Minecraft logo at loading screen (thanks to github.com\/RadiantByte)\r\n- Direct launch shortcuts now work again\r\n- Added option to enable\/disable VSync for game\r\n- Full changelog can be found in About -> Changelog...",
     "text_es": "\u00A1Ya sali\u00F3 MB Loader v2.4! Esta actualizaci\u00F3n trae lo siguiente:\r\n\r\n- Compatibilidad con Minecraft v1.21.124+ (versiones antiguas quiz\u00E1s no funcionen)\r\n- Se arregl\u00F3 el problema de importaci\u00F3n de archivos (gracias github.com\/RadiantByte)\r\n- Se arregl\u00F3 el problema de que la aplicaci\u00F3n no respond\u00EDa\r\n- Ahora el juego muestra el logo de Minecraft en la pantalla de carga (gracias github.com\/RadiantByte)\r\n- Los accesos directos para abrir el juego funcionan de nuevo\r\n- Se a\u00F1adi\u00F3 la opci\u00F3n para activar\/desactivar VSync para el juego\r\n- El registro de cambios completo se encuentra en Acerca de -> Registro de cambios...",
