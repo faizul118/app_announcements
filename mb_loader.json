@@ -1,5 +1,10 @@
 [
   {
+    "date": "Dec 16, 2025",
+    "text": "MB Loader v2.5 is released!\r\n\r\nHighlights:\r\n- Support 1.21.130\r\n- New app icon\r\n- Added drop button [Q] overlay\r\n- Added crash handler activity\r\n- Minor bug fixes\r\n\r\nNote: Since MB Loader breaks often, we recommend you to open Minecraft page on Google Play, click the 3-dot menu, and untick \"Enable auto update\". Preferably, do the same for MB Loader as well so the game doesn't stop working suddenly.",
+    "text_es": "\u00A1Ya est\u00E1 sali\u00F3 MB Loader v2.5!\r\nEsta actualizaci\u00F3n trae lo siguiente:\r\n\r\n- Compatibilidad con Minecraft 1.21.130\r\n- Nuevo icono de la app\r\n- Se a\u00F1adi\u00F3 el bot\u00F3n para dropear items [Q]\r\n- En caso de un crash, ahora se mostrar\u00E1 la causa\r\n- Correcci\u00F3n de errores menores\r\n\r\nNota: C\u00F3mo MB Loader suele romperse, te recomendamos abrir la p\u00E1gina de Minecraft en Google Play, hacer clic en los tres puntos y desactivar la opci\u00F3n \"Activar actualizaci\u00F3n autom\u00E1tica\". Preferiblemente, haz lo mismo con MB Loader para que el juego no deje de funcionar repentinamente."
+  },
+  {
     "date": "Dec 10, 2025",
     "text": "Minecraft v1.21.130 is not supported. Do not update the game.\nCompatibility update (v2.5) will be available within 1-3 days.",
     "text_es": "Minecraft v1.21.130 no es compatible. No actualices el juego.\nLa actualización de compatibilidad (v2.5) estará disponible en 1-3 días.",
