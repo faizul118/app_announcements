@@ -1,5 +1,10 @@
 [
   {
+    "date": "Feb 18, 2026",
+    "text": "MB Loader v2.6 has been released, so is Minecraft v26.0\r\n\r\nThis Minecraft version broke all old shaders, so shader may not work for you. You have to use updated shaders that work on v26.0+. You can check official site for the shader you are using or request creator to update.\r\n\r\nAlternatively you can enable shader autofixer in app settings though that is not recommended as it may break working shaders.",
+    "isCritical": true
+  },
+  {
     "date": "Feb 11, 2026",
     "text": "Minecraft v1.26.0 / v26.0 broke compatibility. MB Loader will be updated as soon as possible.\n\nPlease don't update the game if you don't want to wait.",
     "isCritical": true
