@@ -1,5 +1,10 @@
 [
   {
+    "date": "Feb 23, 2026",
+    "text": "MB Loader is currently unavailable on Play Store because it got removed for having Minecraft screenshots featured in the store page (copyright violation). \r\n\r\nWe are trying to republish the app as soon as possible. Meanwhile if you still have the app installed then don't uninstall it.",
+    "isCritical": true
+  },
+  {
     "date": "Feb 20, 2026",
     "text": "Minecraft v26.1 works fine, feel free to update the game.",
     "text_es": "Minecraft v26.1 funciona bien, puedes actualizar el juego."
