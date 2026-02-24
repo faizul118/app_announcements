@@ -1,5 +1,10 @@
 [
   {
+    "date": "Feb 24, 2026",
+    "text": "Our appeal to Google Play was reject. We now have no option but to re-publish the app under a different ID. Which means you will need to migrate your app data to the new app using the backup data option found in app settings.\r\n\r\nThis announcement also contains an image which you can see in the next update.",
+    "image": "https://github.com/devendrn/newb-x-mcbe/blob/961ef4f65e3f18006ea54904670055bbeeb9fd7d/docs/screenshots.jpg?raw=true"
+  },
+  {
     "date": "Feb 23, 2026",
     "text": "MB Loader is currently unavailable on Play Store because it got removed for having Minecraft screenshots featured in the store page (copyright violation). \r\n\r\nWe are trying to republish the app as soon as possible. Meanwhile if you still have the app installed then don't uninstall it.\n\nYou can join our Discord server from the About tab for more details.",
     "isCritical": true
