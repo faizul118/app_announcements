@@ -1,5 +1,10 @@
 [
   {
+    "date": "Mar 25, 2026",
+    "text": "Minecraft v26.10 is released and it works on both Play Store and GitHub version. But it broke all existing shaders and we can't do anything about it as its shader creator's responsibility to keep their shader up to date.",
+    "text_es": "La v26.10 de Minecraft ya sali\u00F3 y funciona con ambas versiones de Play Store y GitHub. Pero tristemente rompe todos los shaders existentes y nosotros no podemos hacer mucho, ahora es la responsabilidad de los creadores de mantener sus shaders actualizados."
+  },
+  {
     "date": "Mar 23, 2026",
     "text": "We are trying to get MB Loader again on Play Store. So we need active testers. You're invited to join the beta and help us.\r\n\r\nFor details please join our Discord server from the 'About' tab.\r\n\r\nThank you\r\n- Maintainer",
     "isCritical": true
