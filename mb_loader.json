@@ -1,5 +1,9 @@
 [
   {
+    "date": "Mar 27, 2026",
+    "text": "While we announced that Minecraft v26.10 works, MBL2 specifically is unstable right now and is causing lag/game freeze. You're advised to use Draco for the time being if it works.\r\n\r\nNote: Draco only works properly when storage location is set to 'Application' and the shader is activated in Global Resources (not inside world settings)"
+  },
+  {
     "date": "Mar 25, 2026",
     "text": "Minecraft v26.10 is released and it works on both Play Store and GitHub version. But it broke all existing shaders and we can't do anything about it as its shader creator's responsibility to keep their shader up to date.",
     "text_es": "La v26.10 de Minecraft ya sali\u00F3 y funciona con ambas versiones de Play Store y GitHub. Pero tristemente rompe todos los shaders existentes y nosotros no podemos hacer mucho, ahora es la responsabilidad de los creadores de mantener sus shaders actualizados."
