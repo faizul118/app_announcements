@@ -1,9 +1,9 @@
 [
   {
     "date": "Apr 07, 2026",
-    "text": "MB Loader is back on Play Store! \r\nYou can now install it without signing up for beta.\r\n\r\nNotable changes:\r\n- Fixed MBL2 freezing in v26.10+\r\n- Game world viewer: Now you can export\/share individual worlds\r\n- Typing Assistant: Easily format text or add emojis in Minecraft\r\n- Ability to reduce\/disable file associations for app\r\n- Ability to set data location to Android\/media (hidden by default)\r\n- Screenshot export\r\n- Announcements now support hyperlinks and image\r\n- Improved in-game addon import\r\n- Watermark for loyal fans\r\n- A LOT of quality of life improvements (yes a LOT)\r\n- Removed autofixer\r\n\r\n[Download from Google Play](https:\/\/play.google.com\/store\/apps\/details?id=io.github.bambosan.mbloader) [List of shaders that work on Minecraft v26.10+](https:\/\/faizul726.github.io\/blog\/list-of-minecraft-v26-10-rd-shaders\/)",
+    "text": "MB Loader is back on Play Store! \r\nYou can now install it without signing up for beta.\r\n\r\nNotable changes:\r\n- Fixed MBL2 freezing in v26.10+\r\n- Game world viewer: Now you can export\/share individual worlds\r\n- Typing Assistant: Easily format text or add emojis in Minecraft\r\n- Ability to reduce\/disable file associations for app\r\n- Ability to set data location to Android\/media (hidden by default)\r\n- Screenshot export\r\n- Announcements now support hyperlinks and image\r\n- Improved in-game addon import\r\n- Watermark for loyal fans\r\n- A LOT of quality of life improvements (yes a LOT)\r\n- Removed autofixer\r\n\r\n\u2022 [Download from Google Play](https:\/\/play.google.com\/store\/apps\/details?id=io.github.bambosan.mbloader) \r\n\u2022 [List of shaders that work on Minecraft v26.10+](https:\/\/faizul726.github.io\/blog\/list-of-minecraft-v26-10-rd-shaders\/)",
     "isCritical": true,
-    "image": "https://github.com/user-attachments/assets/d0f351ab-74c5-4021-b2c9-ff4d41270cd5"
+    "image": "https://raw.githubusercontent.com/faizul118/app_announcements/main/images/mb_loader_20260407.png"
   },
   {
     "date": "Apr 02, 2026",
