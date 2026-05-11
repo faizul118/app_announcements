@@ -1,5 +1,10 @@
 [
   {
+    "date": "May 11, 2026",
+    "text": "MB Loader v2.8 is released!\r\n\r\nHighlights:\r\n- Revamped home screen with widgets and single launch button\r\n- Added option to force old game UI\r\n- Fixed language changing\r\n- Added an option to fix launch crash on some devices not limited to Samsung\r\n\r\n[Get it on Google Play](https:\/\/play.google.com\/store\/apps\/details?id=io.github.bambosan.mbloader)\r\n\r\nNote: If game is freezing for you starting from v26.20, it maybe caused by D\u00E9esse UI texture pack. Either update it or disable it.",
+    "image": "https://raw.githubusercontent.com/faizul118/app_announcements/main/images/mb_loader_v2.8_homescreen.webp"
+  },
+  {
     "date": "May 05, 2026",
     "text": "Minecraft v26.20 works fine, feel free to update. You can play with existing shaders that are made for 26.10+.\r\nAlso MB Loader v2.8 will release soon. \r\n\r\nFor any questions you can join our Discord server from 'About' tab"
   },
