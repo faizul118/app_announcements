@@ -1,7 +1,8 @@
 [
   {
     "date": "Jun 16, 2026",
-    "text": "Minecraft v26.30 works, but all existing shaders are broken now. You can still update the game if you want or stay on v26.23"
+    "text": "Minecraft v26.30 works, but all existing shaders are broken now. You can still update the game if you want or stay on v26.23",
+    "isCritical": true
   },
   {
     "date": "Jun 11, 2026",
