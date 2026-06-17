@@ -1,5 +1,10 @@
 [
   {
+    "date": "Jun 17, 2026",
+    "text": "Sorry for the confusion, realms don't work on v26.30 and multiplayer and other Xbox Live related things may not work. This will be fixed in next update of MB Loader. Meanwhile please don't update to v26.30. \r\nIf you have updated already then you have to wait for new MB Loader update.",
+    "isCritical": true
+  },
+  {
     "date": "Jun 16, 2026",
     "text": "Minecraft v26.30 works, but all existing shaders are broken now. You can still update the game if you want or stay on v26.23",
     "isCritical": true
