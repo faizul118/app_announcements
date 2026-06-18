@@ -1,6 +1,10 @@
 [
   {
     "date": "Jun 17, 2026",
+    "text": "Minecraft v26.30 have an issue which causes FPS to be limited to 30. This is NOT caused by MB Loader and you have to wait for Mojang to fix it.\r\nLearn more: [MCPE-239693](https:\/\/bugs.mojang.com\/browse\/MCPE\/issues\/MCPE-239693)"
+  },
+  {
+    "date": "Jun 17, 2026",
     "text": "Sorry for the confusion, realms don't work on v26.30 and multiplayer and other Xbox Live related things may not work. This will be fixed in next update of MB Loader. Meanwhile please don't update to v26.30. \r\nIf you have updated already then you have to wait for new MB Loader update.",
     "isCritical": true
   },
