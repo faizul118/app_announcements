@@ -1,5 +1,9 @@
 [
   {
+    "date": "Jun 27, 2026",
+    "text": "Minecraft v26.32 should work fine, you can update the game."
+  },
+  {
     "date": "Jun 22, 2026",
     "text": "MB Loader v2.9 is released!\r\n\r\nNOTE: Minecraft v26.30+ has a bug that causes it to limit FPS to 30. This is a problem cause by the game itself. Not MB Loader. ([MCPE-239693](https:\/\/bugs.mojang.com\/browse\/MCPE\/issues\/MCPE-239693))\r\n\r\nHighlights:\r\n- Fixed 1.26.30 compatibility\r\n- Force old UI now supports 1.26.30\r\n- Added new shader loader: Fuse\r\n- Added ability to change mod button transparency \r\n- Added ability to open game URIs within app\r\n- Xbox login now opens built-in WebView instead of Chrome custom tabs (logins should no longer redirect to original Minecraft)\r\n\r\n[Get it on Google Play](https:\/\/play.google.com\/store\/apps\/details?id=io.github.bambosan.mbloader)\r\n\r\nIf you have any questions, you can ask in our Discord server.",
     "isCritical": true
