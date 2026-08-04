@@ -1,5 +1,10 @@
 [
   {
+    "date": "Aug 04, 2026",
+    "text": "Minecraft v26.40 is released and it's not compatible with MB Loader v2.9.\nPlease do not update the game for now. Compatibility update will be released within next week.",
+    "isCritical": true
+  },
+  {
     "date": "Jul 10, 2026",
     "text": "Minecraft v26.33 should work fine, you can update the game."
   },
