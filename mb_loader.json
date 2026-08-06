@@ -1,6 +1,10 @@
 [
   {
     "date": "Aug 06, 2026",
+    "text": "I have missed an important detail which causes the app to crash whenever something related to Xbox Live triggers.\nI have fixed it already and a hotfix update will be available soon.\n\nSorry for the inconvenience!",
+  },
+  {
+    "date": "Aug 06, 2026",
     "text": "MB Loader v2.10 is released!\n\nHighlights:\n- Added 26.40 compatibility\n- Added ability to force enable Vibrant Visuals on unsupported devices\n- Added ability to load game without music to reduce load on memory\n- Updated ForceCloseOreUI for 26.40\n- 'Media' data location entry is no longer hidden\n- Added setting to force Webview for Xbox login (so logins don't go to original Minecraft)\n- Many small app UI improvements\n\n[Get it on Google Play](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader)",
     "isCritical": true
   },
