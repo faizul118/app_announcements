@@ -1,6 +1,10 @@
 [
   {
     "date": "Aug 06, 2026",
+    "text": "Hotfix update to solve the Xbox Live crash is released. You can get it on [Google Play](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) as version v2.10-hotfix\n\nWe are sorry for causing you this inconvenience."
+  },
+  {
+    "date": "Aug 06, 2026",
     "text": "I have missed an important detail which causes the app to crash whenever something related to Xbox Live triggers.\nI have fixed it already and a hotfix update will be available soon.\n\nSorry for the inconvenience!"
   },
   {
