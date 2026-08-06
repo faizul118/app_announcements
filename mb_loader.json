@@ -1,5 +1,10 @@
 [
   {
+    "date": "Aug 06, 2026",
+    "text": "MB Loader v2.10 is released!\n\nHighlights:\n- Added 26.40 compatibility\n- Added ability to force enable Vibrant Visuals on unsupported devices\n- Added ability to load game without music to reduce load on memory\n- Updated ForceCloseOreUI for 26.40\n- 'Media' data location entry is no longer hidden\n- Added setting to force Webview for Xbox login (so logins don't go to original Minecraft)\n- Many small app UI improvements\n\n[Get it on Google Play](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader)",
+    "isCritical": true
+  },
+  {
     "date": "Aug 04, 2026",
     "text": "Minecraft v26.40 is released and it's not compatible with MB Loader v2.9.\nPlease do not update the game for now. Compatibility update will be released within next week.",
     "isCritical": true
