@@ -1,5 +1,10 @@
 [
   {
+    "date": "Aug 07, 2026",
+    "text": "Before you report any kind of problem, please update MB Loader.\nRecently we have released 2 updates which fixes the following things:\n- 26.40+ crashing with \"cxa_init...\" as reason\n- Game randomly crashing with \"No implementation found for void...\" as reason\n\nAs of today, latest version is \"v2.10-hotfix\" which is available on Play Store now.",
+    "isCritical": true
+  },
+  {
     "date": "Aug 06, 2026",
     "text": "Hotfix update to solve the Xbox Live crash is released. You can get it on [Google Play](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) as version v2.10-hotfix\n\nWe are sorry for causing you this inconvenience."
   },
