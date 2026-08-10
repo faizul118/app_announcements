@@ -1,5 +1,9 @@
 [
   {
+    "date": "Aug 10, 2026",
+    "text": "Because of a mistake in v2.10, hidden settings don't show up even when they are supposed to. This shouldn't be an issue to majority of users. This means that some hidden settings are just impossible to access now.\nThis will be fixed in v2.11 as it's a low priority issue."
+  },
+  {
     "date": "Aug 07, 2026",
     "text": "Before you report any kind of problem, please update MB Loader.\nRecently we have released 2 updates which fixes the following things:\n- 26.40+ crashing with \"cxa_init...\" as reason\n- Game randomly crashing with \"No implementation found for void...\" as reason\n\nAs of today, latest version is \"v2.10-hotfix\" which is available on Play Store now.",
     "isCritical": true
