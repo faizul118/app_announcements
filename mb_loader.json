@@ -1,5 +1,9 @@
 [
   {
+    "date": "Aug 16, 2026",
+    "text": "Minecraft v26.44 should work fine, you can update the game."
+  },
+  {
     "date": "Aug 10, 2026",
     "text": "Because of a mistake in v2.10, hidden settings don't show up even when they are supposed to. This shouldn't be an issue to majority of users. This means that some hidden settings are just impossible to access now.\nThis will be fixed in v2.11 as it's a low priority issue."
   },
