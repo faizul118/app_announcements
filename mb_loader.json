@@ -1,5 +1,9 @@
 [
   {
+    "date": "Aug 30, 2026",
+    "text": "• Minecraft v26.45 should work fine, you can update the game.\n• Compatible shaders still work\n• ForceCloseOreUI and Force Vibrant Visuals work as well\n• We recently shifted our translation project to a self hosted Weblate instance. Check it out [here](https://mb-loader.ddns.net/projects/mb-loader)\n• MB Loader has reached 500K+ downloads on Google Play (excluding downloads from the previous app). I'm genuinely happy to be able to reach that many people."
+  },
+  {
     "date": "Aug 16, 2026",
     "text": "Minecraft v26.44 should work fine, you can update the game."
   },
