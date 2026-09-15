@@ -1,5 +1,10 @@
 [
   {
+    "date": "Sep 15, 2026",
+    "isCritical": true,
+    "text": "Minecraft v26.50 is released and it's not compatible with MB Loader v2.10.\nPlease do not update the game for now. Compatibility update will be released soon.\n\nIf you already have updated the game then you either have to downgrade or wait for MB Loader update. To avoid inconveniences like this, please consider disabling automatic updates for Minecraft in Play Store."
+  },
+  {
     "date": "Sep 02, 2026",
     "text": "Xbox servers are down. So you can't login. This is NOT caused by MB Loader.\nPlease wait until Microsoft fixes their server."
   },
