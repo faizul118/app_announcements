@@ -1,5 +1,10 @@
 [
   {
+    "date": "Sep 26, 2026",
+    "text": "MB Loader v2.11-hotfix is released!\n\nHighlights:\n- Fixed crash on exit\n- Fixed keyboard issue in some text fields\n- Full changelog in app\n\n📥  **Get it on Google Play: <https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader>**\n\nShader: [Equinox RD](https://www.curseforge.com/minecraft-bedrock/texture-packs/equinox-rd-official) by EmeraldGuy",
+    "image": "https://raw.githubusercontent.com/faizul118/app_announcements/b4baa6a5cdcfd288561085506af5f77c3720906b/images/equinox-rd.jpg"
+  },
+  {
     "date": "Sep 22, 2026",
     "text": "MB Loader v2.11 is released!\n\nHighlights\n- Added v26.50 compatibility\n- Force old UI now supports v26.50\n- Updated Force VV for v26.50\n- Bi-weekly prompt to disable automatic updates for Minecraft (punishment for some of you)\n- Several other things that I am too lazy to write. Please check changelog inside app.\n\n[Get it on Google Play](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader)\n\nShader: [Nature Mystic Plus](https://github.com/Rinloid/natural-mystic-plus) by [Rinloid](https://github.com/Rinloid)",
     "image": "https://raw.githubusercontent.com/faizul118/app_announcements/fb89d6a532dc477743fe24108f34d7105e8999d6/images/nature-mystic-plus.jpeg"
