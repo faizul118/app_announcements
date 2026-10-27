@@ -1,5 +1,10 @@
 [
   {
+    "date": "Oct 27, 2026",
+    "text": "Minecraft v26.60 is released and it seems to load just fine. But MBL2 and ForceCloseOreUI have stopped working. Next update of MB Loader should address these issues and also add some interesting mods (wink wink)\nAlso all v26.50 shaders have stopped working. Draco should still work but you are going to need a shader that works on v26.60.",
+    "isCritical": true
+  },
+  {
     "date": "Sep 26, 2026",
     "text": "MB Loader v2.11-hotfix is released!\n\nHighlights:\n- Fixed crash on exit\n- Fixed keyboard issue in some text fields\n- Full changelog in app\n\n📥  [Get it on Google Play](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader)\n\nShader: [Equinox RD](https://mcpedl.com/equinox-rd-official/) by EmeraldGuy",
     "image": "https://raw.githubusercontent.com/faizul118/app_announcements/b4baa6a5cdcfd288561085506af5f77c3720906b/images/equinox-rd.jpg"
